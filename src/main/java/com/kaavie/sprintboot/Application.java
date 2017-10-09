@@ -3,8 +3,6 @@ package com.kaavie.sprintboot;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.context.ApplicationContext;
-import org.springframework.stereotype.*;
-import org.springframework.web.bind.annotation.*;
 
 import java.util.Arrays;
 

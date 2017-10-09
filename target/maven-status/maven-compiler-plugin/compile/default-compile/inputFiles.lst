@@ -1,5 +1,8 @@
+/work/huoban/springboot/src/main/java/com/kaavie/sprintboot/dao/UserMapper.java
 /work/huoban/springboot/src/main/java/com/kaavie/sprintboot/entity/User.java
+/work/huoban/springboot/src/main/java/com/kaavie/sprintboot/config/mybatis/MybatisConfiguration.java
 /work/huoban/springboot/src/main/java/com/kaavie/sprintboot/Application.java
 /work/huoban/springboot/src/main/java/com/kaavie/sprintboot/service/imp/UserServiceImpl.java
 /work/huoban/springboot/src/main/java/com/kaavie/sprintboot/controller/UserController.java
 /work/huoban/springboot/src/main/java/com/kaavie/sprintboot/service/UserService.java
+/work/huoban/springboot/src/main/java/com/kaavie/sprintboot/config/mybatis/JDBCConfiguration.java
